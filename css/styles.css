@@ -11518,6 +11518,7 @@ header.masthead h1, header.masthead .h1 {
   }
   header .profil-img{
     padding: 0px;
+    margin-left: 3px;
     text-align: center;
     width: 100%;
   }
@@ -11535,7 +11536,7 @@ header.masthead h1, header.masthead .h1 {
   }
   .career {
     padding: 0px;
-    margin: 0;
+    margin: 0px;
     text-align: center;
     width: 100%;
   }
