@@ -11499,26 +11499,54 @@ header.masthead h1, header.masthead .h1 {
 }
 @media (max-width: 480px){
   .ikon-fb {
-    height: 32px;
-    width: 32px;
+    height: 40px;
+    width: 40px;
     margin-right: 5px;
   }
   .icon {
-    height: 20px;
-    width: 20px;
+    height: 28px;
+    width: 28px;
+  }
+  .icon-top {
+    margin-left: -20px;
   }
   header .profil-img{
-    padding-top: 10px;
+    padding-top: 0px;
     padding-left: 70px;
   }
   header .identitas {
     text-align: center;
-    margin-top: 0px;
+    margin-top: -50px;
+    margin-bottom: -50px;
   }
   header .text-mobile{
     font-size: 1rem;
   }
   header .nama{
     font-size: 1.2rem;
+  }
+  .career {
+    margin-top: -100px;
+    margin-left: 0px;
+  }
+  .text-career {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .text-isi-career{
+    font-size: 1rem;
+    text-align: center;
+  }
+  .text-muted {
+    font-size: 0.8rem;
+    text-align: center;
+  }
+  .logo {
+    margin-left: 16px;
+    flex-wrap: wrap;
+  }
+  .ikon {
+    margin-right: 20px;
+    margin-top: 25px;
   }
 }
